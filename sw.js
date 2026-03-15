@@ -1,4 +1,4 @@
-const CACHE_NAME = 'buqis-cache-v1';
+const CACHE_NAME = 'bani_surojo';
 
 // Saat proses instalasi PWA
 self.addEventListener('install', (event) => {
